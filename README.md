@@ -1,2 +1,2 @@
-# anchor
-Ahoy! Anchor your boat Leaders!
+# sealost
+all aboard!
